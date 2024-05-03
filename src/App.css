@@ -36,3 +36,56 @@
     transform: rotate(360deg);
   }
 }
+
+.clwg{color: white}
+.clwg:hover{color: green}
+.clwb{color: white;}
+.clwb:hover{color: black;}
+
+.bi1{background-image: url(pict/1.jpg);background-size: 100% 100%;height: 700px;background-attachment:local;}
+
+.bi2{background-image: url(pict/2.jpg);background-size: 100% 100%;}
+
+.bi3{background-image: url(pict/4.jpg);background-size: 100% 100%;}
+
+.bi4{background-image: url(pict/7.png);background-size: 20% 30%;height: 400px;background-attachment: local;background-repeat: no-repeat;background-position: center;}
+
+.bi5{background-image: url(pict/9.jpg);background-size: 100% 100%;background-attachment: local;}
+
+.bi6{background-image: url(pict/10.jpg);background-size: 100% 100%;background-attachment: local}
+
+.bi7{background-image: url(pict/9.png);background-size: 50% 50%;background-repeat: no-repeat;background-color: #172047;background-position: center left;}
+
+.bi8{background-image: url(pict/10.png);background-size: 50% 50%;background-repeat: no-repeat;background-color: #172047;background-position: center left;}
+
+.bi9{background-image: url(pict/11.png);background-size: 50% 50%;background-repeat: no-repeat;background-color: #36c23b ;background-position: center left;}
+
+.bi10{background-image: url(pict/11.jpg);background-size: 100% 100%;}
+
+.a{background-color: rgba(31, 112, 31, 0.657);height: 700px;}
+.b{transition: 1s;height: 100%;width: 100%;background-color:rgba(80, 66, 66, 0.724);height: 285px;}
+.b:hover{background-color: rgba(0, 0, 0, 0.648);}
+.c{background-color: #6fcc6c;height: 400px;}
+.d{height: 100%;width: 100%;background-color: #172047;}
+.d:hover{background-color: #111836}
+.e{height: 100%;width: 100%;background-color: #4dc23e;}
+.e:hover{background-color:#5cb550 ;}
+
+.btn1{height: 50px;width: 200px;border: none;background-color: #32d12c;color: white;}
+
+.btn2{height: 50px;width: 220px;background-color:#242740;border: none;color: white;transition: 1s;}
+.btn2:hover{background-color: #5c5e5c;}
+
+.btn3{color: white;background-color: transparent;border: none;font-size: 17px;}
+.btn3:hover{font-size: 19px;border: 1px dotted;height: 50px;width: 200px;}
+
+.btn4{color: rgba(255, 255, 255, 0.433);background-color: transparent;border: none;font-size: 17px;}
+.btn4:hover{font-size: 19px;}
+
+.btn5{height: 50px;width: 180px;border: none;color: white;background-color: #7bdb40;}
+.btn5:hover{background-color: #69b839;}
+
+.btn6{background-color: transparent;color: #32d12c;border: none;font-size: 20px;}
+
+.ab{height: 70px;transition: 1s;}
+.ab:hover{height: 80px;}
